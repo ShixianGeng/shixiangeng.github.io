@@ -1,7 +1,18 @@
 ## About me
 Hello, I am a PhD student at the University of Tokyo, under the guidance of Professor Koji Yatani. I completed my M.Eng degree at the University of Tokyo and my Bachelor's degree at Rose-Hulman Institute of Technology.
 
+My main research interests include mobile health, wearable computing, and interactive system design. I am a member of the Interactive Intelligent Systems Laboratory (IIS-Lab) at the University of Tokyo, Japan.
+
 ## Projects
+<p float="left">
+<img src="https://user-images.githubusercontent.com/65922267/194699528-2bb076c5-1089-49b7-a218-2f18a22b3461.png" width="200"/>
+<img src="https://user-images.githubusercontent.com/65922267/194699616-18d62e43-c70b-4d07-9f12-1ef0dd0352d0.png" width="200"/>
+<img src="https://user-images.githubusercontent.com/65922267/194699620-07d806c4-f21e-4204-81bf-e0b4d89bd24f.png" width="200"/>
+<img src="https://user-images.githubusercontent.com/65922267/194699624-754f916d-4f61-4de1-be3a-d7f4c9afa248.png" width="200"/>
+<img src="https://user-images.githubusercontent.com/65922267/194699630-cf1cc02c-91d4-4b38-b1d2-1e1b527761fa.png" width="200"/>
+ </p>
+
+A vision-based oral and swallowing capability quantification approach using the camera of a smartphone
 
 ## Publications
 - スマートフォンを用いた画像認識による口腔・嚥下機能の定量的評価手法． **耿世嫻**, 平井雄太, 下島銀士, 柳田陵介, 山田大志, 小野寺宏, 戸原玄, 矢谷浩司. マルチメディア、分散、協調とモバイル (DICOMO2022)，2022 年 7 月．**優秀プレゼンテーション賞受賞**
