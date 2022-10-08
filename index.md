@@ -21,4 +21,4 @@ A vision-based oral and swallowing capability quantification approach using the 
 - 歌唱中の音声・画像からの構音・嚥下機能の分類. 平井雄太, **耿世嫻**，柳田陵介，山田大志，小野寺宏，戸原玄，矢谷浩司. 日本老年歯科医学会, (2022 年 6 月)
 
 ## Contact
-shixiangeng@iis-lab.org
+shixiangeng[@]iis-lab.org
