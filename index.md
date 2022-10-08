@@ -1,3 +1,4 @@
+## About me
 Hello, I am a PhD student at the University of Tokyo, under the guidance of Professor Koji Yatani. I completed my M.Eng degree at the University of Tokyo and my Bachelor's degree at Rose-Hulman Institute of Technology.
 
 ## Projects
